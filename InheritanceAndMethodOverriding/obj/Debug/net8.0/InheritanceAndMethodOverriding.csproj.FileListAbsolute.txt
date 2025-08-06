@@ -1,0 +1,14 @@
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\bin\Debug\net8.0\InheritanceAndMethodOverriding.exe
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\bin\Debug\net8.0\InheritanceAndMethodOverriding.deps.json
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\bin\Debug\net8.0\InheritanceAndMethodOverriding.runtimeconfig.json
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\bin\Debug\net8.0\InheritanceAndMethodOverriding.dll
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\bin\Debug\net8.0\InheritanceAndMethodOverriding.pdb
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\InheritanceAndMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\InheritanceAndMethodOverriding.AssemblyInfoInputs.cache
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\InheritanceAndMethodOverriding.AssemblyInfo.cs
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\InheritanceAndMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\InheritanceAndMethodOverriding.dll
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\refint\InheritanceAndMethodOverriding.dll
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\InheritanceAndMethodOverriding.pdb
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\InheritanceAndMethodOverriding.genruntimeconfig.cache
+C:\Users\magya\source\repos\dcit318-assignment2\Dcit318-assignment2\obj\Debug\net8.0\ref\InheritanceAndMethodOverriding.dll

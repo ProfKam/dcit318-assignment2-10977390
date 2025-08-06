@@ -1,0 +1,14 @@
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.exe
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.deps.json
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.runtimeconfig.json
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.dll
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.pdb
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.AssemblyInfoInputs.cache
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.AssemblyInfo.cs
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.dll
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\refint\AbstractClassAndMethods.dll
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.pdb
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.genruntimeconfig.cache
+C:\Users\magya\source\repos\dcit318-assignment2\AbstractClassAndMethods\obj\Debug\net8.0\ref\AbstractClassAndMethods.dll
